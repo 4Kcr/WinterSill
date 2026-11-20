@@ -2,73 +2,80 @@ WinterSill Freeware License
 
 Copyright (c) 2026 4Kcr. All rights reserved.
 
-WinterSill ("the Software") is freeware. It is free to use, but it is
-proprietary software: it is not open source, and its source code is not
-published. The Software is licensed to you, not sold. By installing,
-copying or using the Software, you agree to the terms below. If you do not
-agree, do not install or use the Software.
+WinterSill ("the Software") is free proprietary software. You may use it free of charge for personal or commercial purposes. The source code is not publicly available.
+
+By installing, copying or using the Software, you agree to the following terms. If you do not agree, do not install or use the Software.
 
 1. Copyright
-   The Software, including its program files, artwork and documentation, is
-   protected by copyright law and international treaties and is owned by
-   4Kcr ("the Author"). All rights not expressly granted in this license are
-   reserved by the Author.
+
+The Software, including its program files, artwork and documentation, is protected by copyright law and belongs to 4Kcr ("the Author"), except for third-party components that belong to their respective owners.
+
+All rights not expressly granted by this license are reserved by the Author.
 
 2. Permitted use
-   You may download, install and use the Software free of charge, for
-   personal or commercial purposes, on any number of computers.
 
-3. Sharing
-   You may share copies of the Software only if all of the following are
-   true:
-   a) the copy is the unmodified installer or portable archive published by
-      the Author;
-   b) it is shared free of charge;
-   c) this license is included with it.
-   You may not sell the Software, include it in a paid product or bundle,
-   or publish it in any app store or software catalog under your own name.
+You may download, install and use the Software free of charge for personal or commercial purposes on any number of computers.
 
-4. Restrictions
-   You may not modify, decompile, disassemble or reverse engineer the
-   Software, or create derivative works based on it, except to the extent
-   that applicable law expressly permits this despite this restriction.
-   You may not remove or change copyright notices.
+You may use the Software at home, at work, in businesses, during livestreams and in other activities.
 
-5. Name and logo
-   The name "WinterSill" and the WinterSill logo identify the Software and
-   belong to the Author. You may use them to refer to the Software
-   accurately, for example when sharing it under section 3 or when writing
-   about it. You may not use them for other products, or in a way that
-   suggests that the Author endorses you or your product.
+No purchase or subscription is required.
+
+3. Sharing and distribution
+
+You may:
+
+* Share links to the official Microsoft Store page and GitHub Releases.
+* Share original, unmodified installers and portable archives published by the Author, free of charge and with this license included.
+
+You may not:
+
+* Sell the Software or charge others for access to it.
+* Include the Software in paid products or bundles.
+* Publish or distribute the Software under your own name or claim that you created it.
+
+4. Modifications and restrictions
+
+You may not:
+
+* Modify, adapt or create derivative works based on the Software without the Author's permission.
+* Decompile, disassemble or reverse engineer the Software, except where applicable law expressly permits it.
+* Copy, publish or distribute modified versions of the Software without the Author's permission.
+* Claim ownership or authorship of the Software.
+* Remove or alter copyright notices.
+
+The Software's source code is not provided or licensed under this agreement.
+
+5. Reviews and content
+
+You are free to:
+
+* Create videos and livestreams featuring the Software.
+* Publish reviews, tutorials and demonstrations.
+* Share screenshots and recordings of the Software.
+* Use the WinterSill name and logo when accurately referring to the Software.
+
+Such use must not suggest that the Author endorses you or your products.
 
 6. No warranty
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 7. Limitation of liability
-   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-   DEALINGS IN THE SOFTWARE.
 
-8. Where the law does not allow these limits
-   Some countries and jurisdictions do not allow certain warranties to be
-   excluded or certain kinds of liability to be limited. In those places,
-   sections 6 and 7 apply only to the extent permitted by applicable law,
-   and nothing in this license excludes or limits any liability or any
-   consumer right that cannot be excluded or limited by law.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+8. Consumer rights
+
+Nothing in this license excludes or limits any consumer rights or other legal protections that cannot be excluded or limited under applicable law.
 
 9. Termination
-   This license ends automatically if you break any of its terms. When it
-   ends, you must stop using the Software and delete all copies.
+
+This license automatically terminates if you violate its terms. Upon termination, you must stop using the Software and delete all copies in your possession.
 
 10. Severability
-   If any part of this license is found unenforceable, that part will be
-   applied to the greatest extent the law allows, and the rest of this
-   license remains in effect.
+
+If any provision of this license is found unenforceable, the remaining provisions will continue to apply to the extent permitted by law.
 
 11. Future versions
-   The Author may publish future versions of the Software under different
-   terms. Each version of the Software is covered by the license included
-   with it.
+
+The Author may release future versions of the Software under different license terms. Each version is governed by the license provided with that version.
