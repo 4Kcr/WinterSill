@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="128" alt="WinterSill logo">
+</p>
+
 <h1 align="center">WinterSill ❄️</h1>
 
 <p align="center">
