@@ -66,6 +66,4 @@ Prefer not to use the Store? Download the installer from [Releases](https://gith
 
 Free to use, not open source. See [LICENSE](LICENSE).
 
-Icons by [Lucide](https://lucide.dev). See [THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md).
-
 Created by [4Kcr](https://github.com/4Kcr), with coding help from Claude.
